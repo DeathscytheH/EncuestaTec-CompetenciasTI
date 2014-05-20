@@ -118,6 +118,7 @@ Tiempo Completo | 3/4 de Tiempo | Medio tiempo | Horas Asignatura | Honorarios
 | MOOCs (Massive Online Open Courses) - Cursos Masivos en Linea (edX, Udacity, Coursera, Udemy, Khan Academy)                                   	|      	|      	|          	|       	|
 | Campus Virtual de su Universidad                                                                                                              	|      	|      	|          	|       	|
 | Otras plataformas de Campus virtual                                                                                                           	|      	|      	|          	|       	|
+| Servicios de encuestas en linea (Survey Monkey, Google Forms)                                                                                                           	|      	|      	|          	|       	|
 
 #####12. Respecto a su USO de las siguientes herramientas y aplicaciones, marque con una X según corresponda:
 
@@ -146,6 +147,7 @@ Tiempo Completo | 3/4 de Tiempo | Medio tiempo | Horas Asignatura | Honorarios
 | MOOCs (Massive Online Open Courses) - Cursos Masivos en Linea (edX, Udacity, Coursera, Udemy, Khan Academy)                                   	|      	|      	|          	|       	|
 | Campus Virtual de su Universidad                                                                                                              	|      	|      	|          	|       	|
 | Otras plataformas de Campus virtual                                                                                                           	|      	|      	|          	|       	|
+| Servicios de encuestas en linea (Survey Monkey, Google Forms)                                                                                                           	|      	|      	|          	|       	|
 
 #####13. Marque con una X según corresponda en cada uno de las respuestas siguientes:
 
@@ -201,7 +203,60 @@ _______________________________________________________
 |----	|----	|
 |    	|    	|
 
-En caso AFIRMATIVO conteste la pregunta 39, en caso NEGATIVO pase a la pregunta 40.
+En caso AFIRMATIVO conteste la pregunta 20, en caso NEGATIVO pase a la pregunta 21.
 
 #####19. Cuáles de los siguientes procesos y con qué frecuencia suele evaluar utilizando las TI?
+
+|             	| Nunca 	| Alguna vez 	| A menudo 	| Muy a menudo 	|
+|-------------	|-------	|------------	|----------	|--------------	|
+| Comprensión 	|       	|            	|          	|              	|
+| Análisis    	|       	|            	|          	|              	|
+| Evaluación  	|       	|            	|          	|              	|
+| Recuerdo    	|       	|            	|          	|              	|
+| Aplicación  	|       	|            	|          	|              	|
+| Creación  	|       	|            	|          	|              	|
+
+#####20. Utiliza las herramientas telemáticas disponibles en su universidad para la administración y gestión electronica?
+
+|   	| Nunca        	|
+|---	|--------------	|
+|   	| Alguna vez   	|
+|   	| A menudo     	|
+|   	| Muy a menudo 	|
+
+#####21. Hay en su universidad servicios de apoyo para la implementación de las TI?
+
+| Si 	| No 	| No sé	|
+|----	|----	|----	|
+|    	|    	|		|
+
+En caso AFIRMATIVO conteste la pregunta siguiente, en caso NEGATIVO o de DESCONOCIMIENTO pase a la pregunta 23.
+
+#####22. Utiliza los servicio de apoyo para la implementación de las TI que se proporcionan desde su universidad?
+
+|   	| Nunca        	|
+|---	|--------------	|
+|   	| Alguna vez   	|
+|   	| A menudo     	|
+|   	| Muy a menudo 	|
+
+#####23. Indique cómo calificaria su conocimiento en cuanto a cada uno de las preguntas siguientes:
+
+|                                                                                                                	| Nulo 	| Superficial 	| Profundo 	| Muy Profundo 	|
+|----------------------------------------------------------------------------------------------------------------	|------	|-------------	|----------	|--------------	|
+| Conceptos básicos asociados a las TI (Conexión a Internet, ADSL, Velocidad de acceso, ancho de banda, apps...) 	|      	|             	|          	|              	|
+| Componentes básicos de las computadoras (Hardware, CPU, teclado, mouse, monitor)                               	|      	|             	|          	|              	|
+| Selección y adquisición de recursos de TI                                                                      	|      	|             	|          	|              	|
+
+#####24. Realiza alguna de las siguientes acciones para mejorar sus competencias en el uso de TI?
+
+|                                                                             	| Nunca 	| Alguna vez 	| A menudo 	| Muy a menudo 	|
+|-----------------------------------------------------------------------------	|-------	|------------	|----------	|--------------	|
+| Participación en foros o espacios de reflexión                              	|       	|            	|          	|              	|
+| Utilización de diferentes fuentes de información                            	|       	|            	|          	|              	|
+| Acceso a plataformas y repositorios de recursos digitales                   	|       	|            	|          	|              	|
+| Creación y mantenimiento de un listado de paginas web relevantes            	|       	|            	|          	|              	|
+| Participación en redes profesionales                                        	|       	|            	|          	|              	|
+| Participación en grupos de innovación e investigación sobre docencia con TI 	|       	|            	|          	|              	|
+| Difusión de su experiencia docente con TI                                   	|       	|            	|          	|              	|
 
