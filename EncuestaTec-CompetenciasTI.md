@@ -1,6 +1,6 @@
 #Cuestionario competencias TI.
 
-Mediante este cuestionario se pretende conocer su nuvel de competencias en TI para la docencia en la UNiversidad. Este cuestionario es anonimo y su realizacion le llevara aproximadamente 10 minutos. Se le agradece de antemano el tiempo y dedicacion empleada a la hora de complimentar el cuestionario.
+Mediante este cuestionario se pretende conocer su nuvel de competencias en TI para la docencia en la Universidad. Este cuestionario es anonimo y su realizacion le llevara aproximadamente 10 minutos. Se le agradece de antemano el tiempo y dedicacion empleada a la hora de complimentar el cuestionario.
 
 #####1. Edad:
 
